@@ -2,7 +2,6 @@
 
 ## I'm a Husband, Data Scientist, and Photographer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning advanced python.
 - 🌱 I recently fell in love with Roam Research.
 - 👯 I’m looking to collaborate with other content creators
