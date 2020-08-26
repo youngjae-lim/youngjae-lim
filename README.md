@@ -36,6 +36,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Test: My First Post](https://dev.to/youngjaelim/test-my-first-post-27eb)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://youngjae-lim.github.io/)
