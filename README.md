@@ -1,52 +1,70 @@
 ### Hi there, I'm Youngjae.👋
 
-## I'm a Husband, Data Scientist, and Photographer!
+## Who am I?
 
-- 🌱 I’m currently learning advanced python.
-- 🌱 I recently fell in love with Roam Research.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love street photography. Check out my instagram!
+I am a full stack web developer as well as a data analyst living in NYC since 2009. I am passionate about building full-stack applications using variety of tools as well as collecting, processing, exploring, and publishing data and building anything involving modern web technologies. I also write about modern web technologies, devops at [my website](https://youngjae-lim.github.io) in my spare time. I enjoy the most developing a backend with Go and a frontend with various JavaScript web frameworks. When I am not at my computer, I am a photographer as well.
 
+## Current Interests
 
-### Connect with me:
+- My current interests related to web technologies are:
+  - Using `CMS(Content Management System)` as a backend platform
+  - Improving and documenting my own Go Web Framework called `Gosnel`
+  - Making **SSG(Static Site Generation)** efficient
+  - Learning **SSR(Server-Side Rendering)** using `SvelteKit`
+  - Building microservices using `Go` and `gRPC`
+  - Container orchestration using `Kubernetes` & `AWS EKS`
+  - Using Github and GitHub Actions as Serverless platform
+  - Learning `Datasette` as data exploring, publishing tool
+  - Improving PKM(Personal Knowledge Management) system using **Roam Research**
+  - Learning `Rust` programming language as a back-end tool
+  - Architecturing CSS
 
-[<img align="left" alt="https://youngjae-lim.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="youngjae-lim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="youngjayonthestreet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Skills
 
+### Programming Languages
 
-<br />
+`Go`, `GraphQL` `JavaScript(ES6)`, `HTML`, `CSS`, `Python`, `SQL`, `Rust`, `VBScript`, `VBA`, `PHP`, `R`
 
-### Languages and Tools:
+### Libraries & Framewokrs
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+| Language   | Frameworks                                                                   |
+| ---------- | ---------------------------------------------------------------------------- |
+| JavaScript | `React`, `Gatsby`, `Svelte`, `SvelteKit`, `Next.js`, `Node.js`, `Express.js` |
+| Python     | `Django`, `FastAPI`                                                          |
+| Go         | `Gosnel`(framework that I am currently making in progress)                   |
+| CSS        | `PostCSS`, `Bootstrap`, `Tailwind CSS`, `Semantic UI`                                   |
 
-<br />
+### Tools & Platforms
+
+| Category                       | Tools & Platforms                                                                                                                           |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Code Editing                   | `Vim`, `VS Code`                                                                                                                            |
+| Cloud                          | `AWS`, `Google Cloud Platform`, `Heroku`, `Digital Ocean`, `Linode`, `Netlify`, `Vercel`, `Gatsby Cloud`, `MongoDB Atlas Cloud`, `Supabase` |
+| DevOps                         | `Git`, `GitHub`, `Docker`, `Kubernetes`                                                                                                     |
+| CMS(Content Management System) | `WordPress`, `Prismic`, `Sanity.io`, `Contentful`, `Strapi`                                                                                 |
+| OS(Operating Systems)          | `Windows`, `Unix`, `Linux`, `MacOS`                                                                                                         |
+
+### Databases
+
+| Type  | Databases                                                   |
+| ----- | ----------------------------------------------------------- |
+| SQL   | `PostgreSQL`, `SQLite`, `MySql`, `MariaDB`, `MS SQL Server` |
+| NoSQL | `MongoDB`, `Redis`                                          |
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test: My First Post](https://dev.to/youngjaelim/test-my-first-post-27eb)
+- [Webpack 5 Essentials Part 1](https://youngjae-lim.github.io/posts/webpack-essentials-part-1)
+- [Cookie Session Authentication In SvelteKit](https://youngjae-lim.github.io/posts/cookie-session-auth-in-sveltekit)
+- [How To Pass Data From Layout Page To Descendant Pages And Components In SvelteKit](https://youngjae-lim.github.io/posts/how-to-pass-data-from-pages-to-descendant-pages-in-sveltekit)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://youngjae-lim.github.io/)
+### ➡️ [More blog posts...](https://youngjae-lim.github.io/posts/)
 
 ---
 
-<details>
+<details open>
   <summary>:zap: Github Stats</summary>
-
+  <br />
   <img align="left" alt="Youngjae Jay Lim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=youngjae-lim&show_icons=true&hide_border=true" />
-
 </details>
-
-[website]: https://youngjae-lim.github.io/
-[linkedin]: https://www.linkedin.com/in/youngjae-lim/
-[instagram]: https://www.instagram.com/youngjayonthestreet/
-[website_photography]: https://www.youngjaelim.com/
