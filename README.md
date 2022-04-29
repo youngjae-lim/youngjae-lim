@@ -43,6 +43,7 @@ I am a full stack web developer as well as a data analyst living in NYC since 20
 | DevOps                         | `Git`, `GitHub`, `Docker`, `Kubernetes`                                                                                                     |
 | CMS(Content Management System) | `WordPress`, `Prismic`, `Sanity.io`, `Contentful`, `Strapi`                                                                                 |
 | OS(Operating Systems)          | `Windows`, `Unix`, `Linux`, `MacOS`                                                                                                         |
+| Web Servers                    | `Apache`, `Nginx`, `Caddy`                                                                                                                  |
 
 ### Databases
 
