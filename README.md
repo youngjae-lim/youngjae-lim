@@ -30,9 +30,10 @@ I am a full stack web developer as well as a data analyst living in NYC since 20
 | Language   | Frameworks                                                                   |
 | ---------- | ---------------------------------------------------------------------------- |
 | JavaScript | `React`, `Gatsby`, `Svelte`, `SvelteKit`, `Next.js`, `Node.js`, `Express.js` |
-| Python     | `Django`, `FastAPI`                                                          |
+| Python     | `Django`, `FastAPI`, `Flask`                                                 |
 | Go         | `Gosnel`(framework that I am currently making in progress)                   |
-| CSS        | `PostCSS`, `Bootstrap`, `Tailwind CSS`, `Semantic UI`                                   |
+| PHP        | `Laravel`                                                                    |
+| CSS        | `PostCSS`, `Bootstrap`, `Tailwind CSS`, `Semantic UI`                        |
 
 ### Tools & Platforms
 
